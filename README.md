@@ -1,6 +1,6 @@
 #  About Me:
-🔭 I’m currently working on AI and ML projects. 🐱‍💻<br>
-🌌 I'm passionate about space exploration and how data can help us understand the universe.<br>
+I’m currently working on AI and ML projects. 🐱‍💻<br>
+🌌 Passionate about space exploration and how data can help us understand the universe.<br>
 👯 I’m looking to collaborate on **AI/ML or Data Analysis projects that solve real-world problems**.<br>
 🤝 I’m looking for help with open source contribution and learning backend.<br>
 🌱 I’m currently learning data analysis, design, and DSA.<br>
