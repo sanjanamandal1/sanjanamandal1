@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Sanjana Mandal 👋</h1>
 
 <p align="center">
@@ -54,6 +53,9 @@ Open to roles in **Applied ML, Computer Vision, NLP, and AI Research**
   <a href="mailto:sanjanamandal2018@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/_just_simpinnn/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -101,3 +103,4 @@ Open to roles in **Applied ML, Computer Vision, NLP, and AI Research**
 ---
 
 ⭐ Always open to learning, collaborating, and building impactful AI systems.
+
