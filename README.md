@@ -1,117 +1,110 @@
-<h1 align="center">Hi, I'm Sanjana Mandal 👋</h1>
+<h1 align="center">Hi 👋, I'm Sanjana Mandal</h1>
 
 <p align="center">
-  <b>Aspiring Machine Learning & AI Engineer</b><br>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0A66C2&center=true&vCenter=true&width=500&lines=AI+%7C+ML+Engineer+in+Progress;Computer+Vision+Enthusiast;Building+Real-World+AI+Systems;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  <b>🚀 Aspiring Machine Learning & AI Engineer</b><br>
   B.Tech CSE (AI & ML) @ VIT Bhopal
 </p>
 
+---
+
+## 🧠 About Me
+
+💡 I enjoy building **intelligent systems** using Machine Learning, Deep Learning, and Computer Vision
+🚀 Passionate about solving **real-world problems through AI-driven solutions**
+🌌 Curious about **AI applications in space & scientific exploration**
+⚙️ Interested in **scalable ML systems and real-time applications**
+📈 Continuously improving in **DSA, System Design, and ML Engineering**
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 J.A.R.V.I.S – Personal Knowledge Assistant
+
+> AI-powered assistant for **smart and context-aware information retrieval**
+
+### 📊 ChurnSight – Explainable Churn Intelligence Dashboard
+
+> ML + SHAP based system for **interpretable customer churn prediction**
+
+### ✋ Gesture Control System
+
+> Real-time **hand gesture recognition system** using OpenCV & ML
+
+---
+
+## 🧠 Tech Stack
+
 <p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-0A66C2?style=flat&logo=python&logoColor=white"/>
-  </a>
-  <a href="https://www.tensorflow.org/">
-    <img src="https://img.shields.io/badge/TensorFlow-0A66C2?style=flat&logo=tensorflow&logoColor=white"/>
-  </a>
-  <a href="https://pytorch.org/">
-    <img src="https://img.shields.io/badge/PyTorch-0A66C2?style=flat&logo=pytorch&logoColor=white"/>
-  </a>
-  <a href="https://opencv.org/">
-    <img src="https://img.shields.io/badge/OpenCV-0A66C2?style=flat&logo=opencv&logoColor=white"/>
-  </a>
-  <a href="https://scikit-learn.org/">
-    <img src="https://img.shields.io/badge/Scikit--learn-0A66C2?style=flat&logo=scikitlearn&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,opencv,sklearn,flask,mysql,aws,git" />
 </p>
 
 ---
 
-## 🚀 About Me
-I’m an aspiring **Machine Learning & AI engineer** passionate about building **real-world AI systems** using **Machine Learning, Deep Learning, Computer Vision, and NLP**. I enjoy transforming ideas into practical applications while continuously strengthening my problem-solving and research skills.
+## 📊 GitHub Analytics
 
-🌌 Curious about **space exploration** and how data & AI help us understand the universe  
-👯 Open to collaborating on **AI/ML or Data Analysis projects with real-world impact**  
-🤝 Learning **open-source contribution** and strengthening **backend development**  
-🌱 Currently learning **Data Analysis, DSA, and system design fundamentals**  
-💬 Ask me about **Python, Machine Learning, Computer Vision, or AI in astronomy**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjanamandal1&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanamandal1&theme=github-dark&hide_border=true" height="150"/>
+</p>
 
----
-
-## 🧠 Interests
-- Machine Learning & Deep Learning  
-- Computer Vision & NLP  
-- Applied AI & Real-Time Systems  
-
----
-
-## 📌 Featured Projects
-- 🏋️‍♂️ **J.A.R.V.I.S** – Personal Knowledge Assistant  
-- 🍳 **ChurnSight** – Explainable Churn Intelligence Dashboard  
-
----
-
-## 🎯 Currently Looking For
-**Machine Learning / AI Internship opportunities**  
-Open to roles in **Applied ML, Computer Vision, NLP, and AI Research**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanamandal1&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-<p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sanjana-mandal-956460285/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sanjanamandal2018@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A66C2?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_just_simpinnn/">
-    <img src="https://img.shields.io/badge/Instagram-0A66C2?style=flat&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
-<details>
-  <summary><b>Click to expand 🚀</b></summary>
-  <br>
+## 🎯 Current Focus
 
-  **Languages**  
-  ![Python](https://img.shields.io/badge/Python-1F6FEB?style=flat&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-1F6FEB?style=flat&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-1F6FEB?style=flat&logo=c%2B%2B&logoColor=white)
-
-  **Machine Learning & Data**  
-  ![NumPy](https://img.shields.io/badge/NumPy-1F6FEB?style=flat&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-1F6FEB?style=flat&logo=pandas&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1F6FEB?style=flat&logo=scikitlearn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-1F6FEB?style=flat&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-1F6FEB?style=flat&logo=pytorch&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-1F6FEB?style=flat&logo=matplotlib&logoColor=white)
-  ![Plotly](https://img.shields.io/badge/Plotly-1F6FEB?style=flat&logo=plotly&logoColor=white)
-
-  **Backend & Tools**  
-  ![Flask](https://img.shields.io/badge/Flask-1F6FEB?style=flat&logo=flask&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-1F6FEB?style=flat&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-1F6FEB?style=flat&logo=git&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-1F6FEB?style=flat&logo=amazonaws&logoColor=white)
-
-</details>
+* 🔍 Data Analysis & Visualization
+* ⚙️ ML System Design
+* 🧩 Strengthening DSA & Problem Solving
+* 🌐 Exploring Open Source Contributions
 
 ---
 
-## 📊 GitHub Stats
-<details>
-  <summary><b>Click to view 📈</b></summary>
-  <br>
+## 🎯 Career Objective
 
-  ![](https://github-readme-stats.vercel.app/api?username=sanjanamandal1&theme=github_dark&hide_border=true)
-  ![](https://nirzak-streak-stats.vercel.app/?user=sanjanamandal1&theme=github-dark&hide_border=true)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanamandal1&theme=github_dark&hide_border=true&layout=compact)
+🚀 Seeking **Machine Learning / AI Internship Opportunities**
 
-</details>
+Interested in:
+
+* Computer Vision
+* NLP
+* Applied Machine Learning
+* AI Research
 
 ---
 
-⭐ Always open to learning, collaborating, and building impactful AI systems.
+## ✨ Fun Zone
 
+```python
+while True:
+    learn()
+    build()
+    improve()
+```
 
+---
+
+⭐ *Building intelligent systems, one project at a time.*
