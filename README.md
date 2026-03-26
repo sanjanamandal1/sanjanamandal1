@@ -44,8 +44,8 @@ I’m an aspiring **Machine Learning & AI engineer** passionate about building *
 ---
 
 ## 📌 Featured Projects
-- 🏋️‍♂️ **AI Fitness Trainer** – Real-time posture analysis using Computer Vision  
-- 🍳 **Voice Cooking Assistant** – NLP-based voice interaction system  
+- 🏋️‍♂️ **J.A.R.V.I.S** – Personal Knowledge Assistant  
+- 🍳 **ChurnSight** – Explainable Churn Intelligence Dashboard  
 
 ---
 
