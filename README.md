@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 About Me
+## ⚠️ About Me
 
 💡 I enjoy building **intelligent systems** using Machine Learning, Deep Learning, and Computer Vision
 🚀 Passionate about solving **real-world problems through AI-driven solutions**
