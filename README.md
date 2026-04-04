@@ -23,7 +23,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799c2cdd4057.gif">
 
 ```yaml
 name: Sanjana Mandal
@@ -188,12 +188,6 @@ Currently working on exciting AI projects involving:
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=sanjanamandal1&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" width="100%" alt="Trophy" />
-
-</div>
-
-<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjanamandal1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF007F&icon_color=00D9FF&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanamandal1&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF007F&text_color=FFFFFF"/>
 </div>
@@ -210,22 +204,22 @@ Currently working on exciting AI projects involving:
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" /><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="60" /><br>
 <b>Data Analysis</b><br>
 <sub>Exploring insights from complex datasets</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="60" /><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="60" /><br>
 <b>ML Systems</b><br>
 <sub>Building scalable AI solutions</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" /><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" width="60" /><br>
 <b>DSA Mastery</b><br>
 <sub>Strengthening fundamentals</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="60" /><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" /><br>
 <b>Open Source</b><br>
 <sub>Contributing to the community</sub>
 </td>
@@ -289,12 +283,6 @@ Currently working on exciting AI projects involving:
 <a href="https://github.com/sanjanamandal1">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
 </a>
-
-<br><br>
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-<img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 
 </div>
 
