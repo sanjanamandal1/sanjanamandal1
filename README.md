@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=FF007F&text=Hey%20there!%20I'm%20Sanjana%20Mandal&height=100&fontSize=40" />
-</h1>
+<div align="center">
+
+# <font color="#FF007F">Hey there! I'm Sanjana Mandal</font>
+
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0A66C2&center=true&vCenter=true&width=500&lines=AI+%7C+ML+Engineer+in+Progress;Computer+Vision+Enthusiast;Building+Real-World+AI+Systems;Always+Learning+🚀" />
