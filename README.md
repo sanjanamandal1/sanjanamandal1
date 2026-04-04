@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjana Mandal</h1>
+<h1 align="center"><font color="#FF007F">Hey there! I'm Sanjana Mandal</font></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0A66C2&center=true&vCenter=true&width=500&lines=AI+%7C+ML+Engineer+in+Progress;Computer+Vision+Enthusiast;Building+Real-World+AI+Systems;Always+Learning+🚀" />
@@ -37,7 +37,7 @@
 
 ---
 
-## 🧠 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,tensorflow,pytorch,opencv,sklearn,flask,mysql,aws,git" />
