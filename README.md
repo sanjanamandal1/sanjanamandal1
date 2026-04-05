@@ -23,11 +23,11 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799c2cdd4057.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ```yaml
 name: Sanjana Mandal
-located_in: Bhopal, India
+located_in: Kolkata, India
 current_focus: AI/ML Engineering
 education: B.Tech CSE (AI & ML)
 
