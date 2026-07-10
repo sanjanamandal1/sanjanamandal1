@@ -148,7 +148,7 @@ Active research modules covering satellite imagery classification, custom MLOps 
 
 <div align="center">
   <!-- Dynamic grid-eating snake compiled from activity telemetry -->
-  <img src="https://raw.githubusercontent.com/sanjanamandal1/sanjanamandal1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="./assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 ---
@@ -156,8 +156,8 @@ Active research modules covering satellite imagery classification, custom MLOps 
 ## 📊 **Telemetry & Galactic Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjanamandal1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=8A2BE2&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanamandal1&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=sanjanamandal1&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=8A2BE2&text_color=FFFFFF" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sanjanamandal1&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -167,7 +167,7 @@ Active research modules covering satellite imagery classification, custom MLOps 
 
 <div align="center">
   <!-- 3D Isometric Git Activity Render -->
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=sanjanamandal1&theme=dark" width="100%" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph" />
 </div>
 
 ---
