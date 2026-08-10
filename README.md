@@ -1,22 +1,22 @@
 <div align="center">
 
-<!-- Custom Header Banner with Twinkling Nebula Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3,4,30&height=220&section=header&text=Sanjana%20Mandal&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%F0%9F%AA%90%20AI%20%7C%20ML%20Engineer%20in%20Orbit%20%F0%9F%9A%80&descAlignY=55&descSize=22" width="100%"/>
+<!-- Custom Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Sanjana%20Mandal&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20ML%20Engineer%20in%20Progress&descAlignY=51&descSize=20" width="100%"/>
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+MLOps;Turning+Ideas+into+AI-Powered+Reality+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF007F&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+MLOps;Turning+Ideas+into+AI-Powered+Reality+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-8A2BE2?style=for-the-badge&logo=microsoft-academic&logoColor=white" alt="B.Tech" />
-  <img src="https://img.shields.io/badge/VIT-Bhopal-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white" alt="VIT Bhopal" />
-  <img src="https://img.shields.io/badge/Orbit-Decentralized%20Systems-00FFCC?style=for-the-badge" alt="Orbit Status" />
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-FF007F?style=for-the-badge&logo=microsoft-academic&logoColor=white" />
+  <img src="https://img.shields.io/badge/VIT-Bhopal-0A66C2?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building%20The%20Future-00D9FF?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjanamandal1&color=8A2BE2&style=for-the-badge&label=COMMS+ESTABLISHED" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sanjanamandal1&color=FF007F&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ fun_fact: "I believe AI can solve humanity's greatest challenges 🚀"
 - Creating scalable, production-ready ML solutions
 - Contributing to open-source AI projects
 
-💀 **Current Mission:**
+💫 **Current Mission:**
 Transforming theoretical ML concepts into practical, deployable solutions that solve real problems.
 
 </details>
@@ -326,3 +326,4 @@ class AIEngineer:
 <sub>Made with ❤️ and lots of ☕</sub>
 
 </div>
+
