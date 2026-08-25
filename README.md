@@ -48,10 +48,10 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="./portrait.jpg" width="280px" alt="sanjana"/>
+<img src="./potrait.jpg" width="280px" alt="sanjana"/>
 
 ```
-root@sanjana:~$ cat portrait.txt
+root@sanjana:~$ portrait.txt
 [ loaded. she codes. ]
 root@sanjana:~$ █
 ```
@@ -62,7 +62,7 @@ root@sanjana:~$ █
 
 ---
 
-## `> ls -la ./skills`
+## `> ./skills`
 
 <div align="center">
 
@@ -78,7 +78,7 @@ root@sanjana:~$ █
 
 ---
 
-## `> cat ./stats`
+## `> ./stats`
 
 <div align="center">
 
