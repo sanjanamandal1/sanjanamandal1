@@ -48,14 +48,11 @@
 </td>
 <td width="45%" align="center" valign="middle">
 
-> 📌 **Upload `portrait.jpg` to your profile repo root**
-> *(file sent separately — the CRT terminal portrait)*
-
-<img src="./portrait.jpg" width="300px" alt="sanjana terminal portrait"/>
+<img src="./portrait.jpg" width="280px" alt="sanjana"/>
 
 ```
 root@sanjana:~$ cat portrait.txt
-[ SIZE: 80x50 | FORMAT: .txt ]
+[ loaded. she codes. ]
 root@sanjana:~$ █
 ```
 
